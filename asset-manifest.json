@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fcc-treemap-diagram/static/css/main.9e6c2ccc.chunk.css",
+    "main.js": "/fcc-treemap-diagram/static/js/main.05aedf1c.chunk.js",
+    "main.js.map": "/fcc-treemap-diagram/static/js/main.05aedf1c.chunk.js.map",
+    "runtime-main.js": "/fcc-treemap-diagram/static/js/runtime-main.9682ec7b.js",
+    "runtime-main.js.map": "/fcc-treemap-diagram/static/js/runtime-main.9682ec7b.js.map",
+    "static/js/2.7ab9f37a.chunk.js": "/fcc-treemap-diagram/static/js/2.7ab9f37a.chunk.js",
+    "static/js/2.7ab9f37a.chunk.js.map": "/fcc-treemap-diagram/static/js/2.7ab9f37a.chunk.js.map",
+    "index.html": "/fcc-treemap-diagram/index.html",
+    "precache-manifest.0a5737301927ec8fe9ef8b9f9b3e6f0e.js": "/fcc-treemap-diagram/precache-manifest.0a5737301927ec8fe9ef8b9f9b3e6f0e.js",
+    "service-worker.js": "/fcc-treemap-diagram/service-worker.js",
+    "static/css/main.9e6c2ccc.chunk.css.map": "/fcc-treemap-diagram/static/css/main.9e6c2ccc.chunk.css.map",
+    "static/js/2.7ab9f37a.chunk.js.LICENSE.txt": "/fcc-treemap-diagram/static/js/2.7ab9f37a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9682ec7b.js",
+    "static/js/2.7ab9f37a.chunk.js",
+    "static/css/main.9e6c2ccc.chunk.css",
+    "static/js/main.05aedf1c.chunk.js"
+  ]
+}
